@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>Hola Mundo!! developer jr is now leaving Testing Github Webhook for automatic build</h1>
                 <h2>Congratulations</h2>
-                <p>Your PHP application is now running on a container in Amazon ECS okay caon.</p>
+                <p>Your PHP application is now running on a container in Amazon ECS okay caon, como ves!.</p>
                 <p>The container is running the best PHP version <?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
